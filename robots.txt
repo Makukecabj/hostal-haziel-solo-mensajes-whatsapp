@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostal-haziel-solo-mensajes-whatsapp.vercel.app/sitemap.xml
